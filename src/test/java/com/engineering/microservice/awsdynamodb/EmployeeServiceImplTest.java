@@ -1,4 +1,4 @@
-package com.sample.microservice.awsdynamodb;
+package com.engineering.microservice.awsdynamodb;
 
 import com.engineering.microservice.awsdynamodb.domain.Employee;
 import org.junit.jupiter.api.Test;

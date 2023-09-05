@@ -1,4 +1,4 @@
-package com.engineering.microservice.awsdynamodb.web;
+package com.engineering.microservice.awsdynamodb.controller;
 
 
 import com.engineering.microservice.awsdynamodb.domain.Employee;
